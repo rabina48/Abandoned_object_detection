@@ -14,6 +14,7 @@ It is the  automatic detection of objects that are abandoned or removed in a vid
 * Frame difference of first frame and the video is taken.
 * Canny Edge Detection is applied.
 [Canny Edge](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html)
+
 * A timer is started in case of a detection.
 * If the abandoned object is not moved for a specified time then it is displayed on the screen.
 
