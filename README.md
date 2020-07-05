@@ -1,6 +1,6 @@
 # Abandoned-Object-Detection
 It is the  automatic detection of objects that are abandoned or removed in a video scene is an interesting area of computer vision + Image Procesing, with key applications in video surveillance.
-Video for Reference [click here] (https://www.youtube.com/watch?v=B_skGMoTXAA)
+Video for Reference [click here](https://www.youtube.com/watch?v=B_skGMoTXAA)
 
 ### How it works? :
 The steps that are ongoing with:-
