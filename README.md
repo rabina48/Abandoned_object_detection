@@ -1,8 +1,9 @@
 # Abandoned-Object-Detection
+It is the  automatic detection of objects that are abandoned or removed in a video scene is an interesting area of computer vision + Image Procesing, with key applications in video surveillance.
 
 #### Work to be done :
-1.We are processing the live feed of the CCTV camera with image processing.
-2.If a person is releasing off some piece of luggage the camera will catch the activity.
+* We are processing the live feed of the CCTV camera with image processing.
+* If a person is releasing off some piece of luggage the camera will catch the activity.
 3.This frames are been detected and been image processed by Edge detection . The processing is done by the OpenCV.
 4.If the bag is untouched for a some period of time the analyser decides and further gives an alarm to the authority.
 
