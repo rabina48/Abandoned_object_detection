@@ -5,7 +5,7 @@ Video for Reference [click here](https://www.youtube.com/watch?v=B_skGMoTXAA)
 ### How it works? :
 The steps that are ongoing with:-
 * We are processing the live feed of the CCTV camera with [Image processing](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html)
-[More_Paper on:](https://www.sciencedirect.com/science/article/pii/S1877705812025684).
+Reference [Paper on](https://www.sciencedirect.com/science/article/pii/S1877705812025684).
 * If a person is releasing off some piece of luggage the camera will catch the activity.
 * This frames are been detected and been image processed by Edge detection . The processing is done by the OpenCV.
 * If the bag is untouched for a some period of time the analyser decides and further gives an alarm to the authority.
